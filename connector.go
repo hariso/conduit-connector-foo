@@ -1,4 +1,4 @@
-package connectorname
+package foo
 
 import (
 	_ "embed"
