@@ -1,3 +1,5 @@
+//go:generate specgen
+
 package foo
 
 import (
